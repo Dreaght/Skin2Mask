@@ -1,0 +1,6 @@
+*.png
+*.config
+*venv*
+*.pdf
+dist
+build

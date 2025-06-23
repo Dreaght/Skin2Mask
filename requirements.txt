@@ -1,0 +1,5 @@
+Pillow
+PyQT6
+requests
+fitz
+PyMuPDF
