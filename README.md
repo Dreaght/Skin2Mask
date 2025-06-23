@@ -18,7 +18,7 @@ The app previews the final PDF of papercraft.
 
 ## Usage
 
-1. Run `skin2mask.py` (See [Build](#a-namebuilda-build) section below)
+1. Run `skin2mask.py` (See [Build](#build) section below)
 2. Enter a Minecraft username or select a local skin
 3. Adjust the settings if needed (especially orange ones)
 4. Click **Generate Mask PDF**
