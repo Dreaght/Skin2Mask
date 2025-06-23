@@ -25,17 +25,18 @@ The app previews the final PDF of papercraft.
 5. The result is shown on the right and saved as `papercraft-mask.pdf`
 
 ## Configuration
-| Field                | Description                              |
-| -------------------- | ---------------------------------------- |
-| `face_width_mm`      | Width of the face image in mm            |
-| `face_height_mm`     | Height of the face image in mm           |
-| `edge_thickness_mm`  | How thick the border edges are           |
-| `dpi`                | Print resolution (dots per inch)         |
-| `a4_width_mm`        | Page width (default A4 = 210mm)          |
-| `a4_height_mm`       | Page height (default A4 = 297mm)         |
-| `overlap_mm`         | Overlap margin between pages             |
-| `marker_size`        | Size of black alignment markers          |
-| `outer_scale_factor` | Scale multiplier for the outer hat layer |
+
+| Field                | Description                                                              |
+|----------------------|--------------------------------------------------------------------------|
+| `face_width_mm`      | Width of the front face area in millimeters                              |
+| `face_height_mm`     | Height of the front face area in millimeters                             |
+| `edge_thickness_mm`  | Height of the mask sides (like the walls of a box lid)                   |
+| `dpi`                | Print resolution in dots per inch                                        |
+| `a4_width_mm`        | Paper width in millimeters (default A4 = 210 mm)                         |
+| `a4_height_mm`       | Paper height in millimeters (default A4 = 297 mm)                        |
+| `overlap_mm`         | Horizontal overlap between printed pages to help with gluing/alignment   |
+| `marker_size`        | Size (in pixels) of black square alignment markers                       |
+| `outer_scale_factor` | How much bigger the outer hat layer should be compared to the base layer |
 
 ## Notes
 
